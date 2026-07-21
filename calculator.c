@@ -1,5 +1,3 @@
-# c-calculator
-A simple calculator application...
 #include <stdio.h>
     int main() {
     char operator;
