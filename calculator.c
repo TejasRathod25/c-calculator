@@ -1,8 +1,7 @@
 # c-calculator
-A simple calculator application built using C. Supports basic arithmetic operations and demonstrates fundamental programming concepts.
+A simple calculator application...
 #include <stdio.h>
-
-int main() {
+    int main() {
     char operator;
     float num1, num2, result;
 
